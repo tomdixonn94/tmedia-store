@@ -1,13 +1,13 @@
-{
-  "apps": [
-    {
-      "id": "tmedia-ibo",
-      "name": "TMedia IBO",
-      "description": "Beautiful looking & well optimised IBO for Both the main server and backup",
-      "version": "1.0",
-      "featured": true,
-      "iconUrl": "",
-      "downloadUrl": "https://github.com/tomdixonn94/tmedia-store/releases/download/tmedia-ibo/Tmediaadsibo.apk"
-    }
-  ]
-}
+[
+  {
+    "name": "T Media IBO",
+    "tagline": "Live TV • Movies • Sports",
+    "description": "The official T Media streaming application.",
+    "version": "1.0",
+    "size": "24 MB",
+    "downloadUrl": "https://github.com/tomdixonn94/tmedia-store/releases/download/tmedia-ibo/Tmediaadsibo.apk",
+    "localApk": "",
+    "icon": "tmedia_logo",
+    "featured": true
+  }
+]
