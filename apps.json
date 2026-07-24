@@ -1,7 +1,7 @@
 [
   {
     "name": "T Media IBO",
-    "tagline": "Works with Main & Backup",
+    "tagline": "Works with Main \u0026 Backup",
     "description": "Most recommended app works on 99% of devices.",
     "version": "1.0",
     "size": "24 MB",
@@ -19,6 +19,18 @@
     "size": "20 MB",
     "downloadUrl": "https://github.com/tomdixonn94/tmedia-store/releases/download/tmedia-sky/5kyXb0t7m396536g37v36.1.apk",
     "screenshotUrl": "https://raw.githubusercontent.com/tomdixonn94/tmedia-store/main/images/tmedia-sky.jpg",
+    "localApk": "",
+    "icon": "tmedia_logo",
+    "featured": false
+  },
+  {
+    "name": "SKY X",
+    "tagline": "Newest APP",
+    "description": "",
+    "version": "4.3",
+    "size": "23.4 MB",
+    "downloadUrl": "https://github.com/tomdixonn94/tmedia-store/releases/download/sky-x-v4.3-20260724114041/5kyXb0t7m396536g37v36.1.apk",
+    "screenshotUrl": "https://github.com/tomdixonn94/tmedia-store/releases/download/sky-x-v4.3-20260724114041/preview-20260724-124032.png",
     "localApk": "",
     "icon": "tmedia_logo",
     "featured": false
