@@ -16,10 +16,10 @@
   },
   {
     "name": "T Media Sky",
-    "tagline": "Newest app release (test)",
-    "description": "Newest app release for both the main and backup server.",
+    "tagline": "T Media iboX",
+    "description": "Newest app release for both the main and backup server. Loads of new features and imporvements from the old IBO but still currently in testing phase so please get in touch if you find any bugs.",
     "releaseNotes": "Performance and compatibility improvements.",
-    "version": "1.0",
+    "version": "1.1",
     "size": "20 MB",
     "downloadUrl": "https://github.com/tomdixonn94/tmedia-store/releases/download/tmedia-sky/5kyXb0t7m396536g37v36.1.apk",
     "screenshotUrl": "https://raw.githubusercontent.com/tomdixonn94/tmedia-store/main/images/t-media-sky-20260724134542447.png",
