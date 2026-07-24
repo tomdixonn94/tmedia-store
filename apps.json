@@ -9,7 +9,7 @@
     "screenshotUrl": "https://raw.githubusercontent.com/tomdixonn94/tmedia-store/main/images/tmedia-sky.jpg",
     "localApk": "",
     "icon": "tmedia_logo",
-    "featured": false,
+    "featured": true,
     "packageName": "",
     "updatedAt": "2026-07-24"
   },
