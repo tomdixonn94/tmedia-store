@@ -1,7 +1,7 @@
 {
-  "versionCode": 44,
-  "versionName": "7.0.4",
-  "apkUrl": "https://github.com/tomdixonn94/tmedia-store/releases/download/t-media-store-v7.0.4/TMediaStore-v7.0.4.apk",
-  "releaseNotes": "Latest Version.",
+  "versionCode": 45,
+  "versionName": "7.0.5",
+  "apkUrl": "https://github.com/tomdixonn94/tmedia-store/releases/download/t-media-store-v7.0.5/TMediaStore-v7.0.5.apk",
+  "releaseNotes": "Test Update",
   "mandatory": false
 }
