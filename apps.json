@@ -1,7 +1,7 @@
 [
   {
     "name": "T Media Sky",
-    "tagline": "Newest app release",
+    "tagline": "Newest app release (test)",
     "description": "Newest app release for both the main and backup server.",
     "version": "1.0",
     "size": "20 MB",
@@ -11,7 +11,7 @@
     "icon": "tmedia_logo",
     "featured": false,
     "packageName": "",
-    "updatedAt": ""
+    "updatedAt": "2026-07-24"
   },
   {
     "name": "SKY X",
