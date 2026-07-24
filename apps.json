@@ -9,7 +9,9 @@
     "screenshotUrl": "https://raw.githubusercontent.com/tomdixonn94/tmedia-store/main/images/tmedia-ibo.jpg",
     "localApk": "",
     "icon": "tmedia_logo",
-    "featured": true
+    "featured": true,
+    "packageName": "",
+    "updatedAt": ""
   },
   {
     "name": "T Media Sky",
@@ -21,7 +23,9 @@
     "screenshotUrl": "https://raw.githubusercontent.com/tomdixonn94/tmedia-store/main/images/tmedia-sky.jpg",
     "localApk": "",
     "icon": "tmedia_logo",
-    "featured": false
+    "featured": false,
+    "packageName": "",
+    "updatedAt": ""
   },
   {
     "name": "SKY X",
@@ -33,6 +37,22 @@
     "screenshotUrl": "https://github.com/tomdixonn94/tmedia-store/releases/download/sky-x-v4.3-20260724114041/preview-20260724-124032.png",
     "localApk": "",
     "icon": "tmedia_logo",
-    "featured": false
+    "featured": false,
+    "packageName": "",
+    "updatedAt": ""
+  },
+  {
+    "name": "T MEDIA",
+    "tagline": "Official T Media app",
+    "description": "T MEDIA for T Media customers.",
+    "version": "3.4",
+    "size": "27.9 MB",
+    "downloadUrl": "https://github.com/tomdixonn94/tmedia-store/releases/download/t-media-v3.4-20260724121419/Tmediaadsibo.apk",
+    "screenshotUrl": "https://github.com/tomdixonn94/tmedia-store/releases/download/t-media-v3.4-20260724121419/preview-20260724-131415.png",
+    "localApk": "",
+    "icon": "tmedia_logo",
+    "featured": false,
+    "packageName": "com.flextv.goldads",
+    "updatedAt": "2026-07-24"
   }
 ]
