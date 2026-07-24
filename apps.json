@@ -1,5 +1,20 @@
 [
   {
+    "name": "T Media IBO",
+    "tagline": "Recommend - Most compatible with all devices",
+    "description": "This is the perfect app for majority of devices. This app works with Both Servers making it quick and easy to switch between servers.",
+    "releaseNotes": "Performance and compatibility improvements.",
+    "version": "1.0",
+    "size": "26.1 MB",
+    "downloadUrl": "https://github.com/tomdixonn94/tmedia-store/releases/download/t-media-ibo-v1.0-20260724214921/TMEDIAIBO.apk",
+    "screenshotUrl": "https://raw.githubusercontent.com/tomdixonn94/tmedia-store/main/images/t-media-ibo-20260724214924725.png",
+    "localApk": "",
+    "icon": "tmedia_logo",
+    "featured": true,
+    "packageName": "com.flextv.livegoldv3",
+    "updatedAt": "2026-07-24"
+  },
+  {
     "name": "T Media Sky",
     "tagline": "Newest app release (test)",
     "description": "Newest app release for both the main and backup server.",
@@ -10,7 +25,7 @@
     "screenshotUrl": "https://raw.githubusercontent.com/tomdixonn94/tmedia-store/main/images/t-media-sky-20260724134542447.png",
     "localApk": "",
     "icon": "tmedia_logo",
-    "featured": true,
+    "featured": false,
     "packageName": "com.flextv.skyx",
     "updatedAt": "2026-07-24"
   }
