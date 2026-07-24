@@ -2,21 +2,23 @@
   {
     "name": "T Media IBO",
     "tagline": "Works with Main & Backup",
-    "description": "Most recommended app works on 99% Devices",
+    "description": "Most recommended app works on 99% of devices.",
     "version": "1.0",
     "size": "24 MB",
     "downloadUrl": "https://github.com/tomdixonn94/tmedia-store/releases/download/tmedia-ibo/Tmediaadsibo.apk",
+    "screenshotUrl": "https://raw.githubusercontent.com/tomdixonn94/tmedia-store/main/images/tmedia-ibo.jpg",
     "localApk": "",
     "icon": "tmedia_logo",
     "featured": true
   },
-   {
+  {
     "name": "T Media Sky",
-    "tagline": "Newst App release",
-    "description": "Newst app release for both the main and backup server",
+    "tagline": "Newest app release",
+    "description": "Newest app release for both the main and backup server.",
     "version": "1.0",
     "size": "20 MB",
     "downloadUrl": "https://github.com/tomdixonn94/tmedia-store/releases/download/tmedia-sky/5kyXb0t7m396536g37v36.1.apk",
+    "screenshotUrl": "https://raw.githubusercontent.com/tomdixonn94/tmedia-store/main/images/tmedia-sky.jpg",
     "localApk": "",
     "icon": "tmedia_logo",
     "featured": false
