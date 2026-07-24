@@ -1,13 +1,24 @@
 [
   {
     "name": "T Media IBO",
-    "tagline": "Live TV • Movies • Sports",
-    "description": "The official T Media streaming application.",
+    "tagline": "Works with Main & Backup",
+    "description": "Most recommended app works on 99% Devices",
     "version": "1.0",
     "size": "24 MB",
     "downloadUrl": "https://github.com/tomdixonn94/tmedia-store/releases/download/tmedia-ibo/Tmediaadsibo.apk",
     "localApk": "",
     "icon": "tmedia_logo",
     "featured": true
+  }
+   {
+    "name": "T Media Sky",
+    "tagline": "Newst App release",
+    "description": "Newst app release for both the main and backup server",
+    "version": "1.0",
+    "size": "20 MB",
+    "downloadUrl": "https://github.com/tomdixonn94/tmedia-store/releases/download/tmedia-sky/5kyXb0t7m396536g37v36.1.apk",
+    "localApk": "",
+    "icon": "tmedia_logo",
+    "featured": false
   }
 ]
