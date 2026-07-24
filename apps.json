@@ -1,19 +1,5 @@
 [
   {
-    "name": "T Media IBO",
-    "tagline": "Official T Media app",
-    "description": "Test",
-    "version": "3.4",
-    "size": "27.9 MB",
-    "downloadUrl": "https://github.com/tomdixonn94/tmedia-store/releases/download/t-media-ibo-v3.4-20260724122008/Tmediaadsibo.apk",
-    "screenshotUrl": "https://github.com/tomdixonn94/tmedia-store/releases/download/t-media-ibo-v3.4-20260724122008/preview-20260724-131415.png",
-    "localApk": "",
-    "icon": "tmedia_logo",
-    "featured": false,
-    "packageName": "com.flextv.goldads",
-    "updatedAt": "2026-07-24"
-  },
-  {
     "name": "T Media Sky",
     "tagline": "Newest app release",
     "description": "Newest app release for both the main and backup server.",
@@ -40,19 +26,5 @@
     "featured": false,
     "packageName": "",
     "updatedAt": ""
-  },
-  {
-    "name": "T MEDIA",
-    "tagline": "Official T Media app",
-    "description": "T MEDIA for T Media customers.",
-    "version": "3.4",
-    "size": "27.9 MB",
-    "downloadUrl": "https://github.com/tomdixonn94/tmedia-store/releases/download/t-media-v3.4-20260724121419/Tmediaadsibo.apk",
-    "screenshotUrl": "https://github.com/tomdixonn94/tmedia-store/releases/download/t-media-v3.4-20260724121419/preview-20260724-131415.png",
-    "localApk": "",
-    "icon": "tmedia_logo",
-    "featured": false,
-    "packageName": "com.flextv.goldads",
-    "updatedAt": "2026-07-24"
   }
 ]
