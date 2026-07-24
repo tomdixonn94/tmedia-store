@@ -1,17 +1,17 @@
 [
   {
     "name": "T Media IBO",
-    "tagline": "Works with Main \u0026 Backup",
-    "description": "Most recommended app works on 99% of devices.",
-    "version": "1.0",
-    "size": "24 MB",
-    "downloadUrl": "https://github.com/tomdixonn94/tmedia-store/releases/download/tmedia-ibo/Tmediaadsibo.apk",
-    "screenshotUrl": "https://raw.githubusercontent.com/tomdixonn94/tmedia-store/main/images/tmedia-ibo.jpg",
+    "tagline": "Official T Media app",
+    "description": "T MEDIA for T Media customers.",
+    "version": "3.4",
+    "size": "27.9 MB",
+    "downloadUrl": "https://github.com/tomdixonn94/tmedia-store/releases/download/t-media-ibo-v3.4-20260724121509/Tmediaadsibo.apk",
+    "screenshotUrl": "https://github.com/tomdixonn94/tmedia-store/releases/download/t-media-ibo-v3.4-20260724121509/preview-20260724-131415.png",
     "localApk": "",
     "icon": "tmedia_logo",
-    "featured": true,
-    "packageName": "",
-    "updatedAt": ""
+    "featured": false,
+    "packageName": "com.flextv.goldads",
+    "updatedAt": "2026-07-24"
   },
   {
     "name": "T Media Sky",
