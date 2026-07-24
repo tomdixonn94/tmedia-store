@@ -13,20 +13,5 @@
     "featured": true,
     "packageName": "com.flextv.skyx",
     "updatedAt": "2026-07-24"
-  },
-  {
-    "name": "T Media X",
-    "tagline": "Newest APP",
-    "description": "Test",
-    "releaseNotes": "",
-    "version": "4.3",
-    "size": "23.4 MB",
-    "downloadUrl": "https://github.com/tomdixonn94/tmedia-store/releases/download/sky-x-v4.3-20260724114041/5kyXb0t7m396536g37v36.1.apk",
-    "screenshotUrl": "https://github.com/tomdixonn94/tmedia-store/releases/download/sky-x-v4.3-20260724114041/preview-20260724-124032.png",
-    "localApk": "",
-    "icon": "tmedia_logo",
-    "featured": false,
-    "packageName": "",
-    "updatedAt": "2026-07-24"
   }
 ]
