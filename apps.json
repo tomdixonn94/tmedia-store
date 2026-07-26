@@ -28,5 +28,20 @@
     "featured": false,
     "packageName": "com.flextv.skyx",
     "updatedAt": "2026-07-24"
+  },
+  {
+    "name": "TMedia Deluxe",
+    "tagline": "T Media Deluxe app",
+    "description": "This app Only supports Server 1, if your not sure which server your on get in touch. Also slightly older app so may not work on never devices.",
+    "releaseNotes": "",
+    "version": "1.2.4.553",
+    "size": "88.9 MB",
+    "downloadUrl": "https://github.com/tomdixonn94/tmedia-store/releases/download/tmedia-deluxe-v1.2.4.553-20260726010730/Mediadeluxe2803.apk",
+    "screenshotUrl": "https://raw.githubusercontent.com/tomdixonn94/tmedia-store/main/images/tmedia-deluxe-20260726010736651.png",
+    "localApk": "",
+    "icon": "tmedia_logo",
+    "featured": false,
+    "packageName": "com.qdeluxe.app",
+    "updatedAt": "2026-07-26"
   }
 ]
