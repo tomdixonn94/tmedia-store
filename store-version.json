@@ -1,7 +1,7 @@
 {
-  "versionCode": 47,
-  "versionName": "7.0.7",
-  "apkUrl": "https://github.com/tomdixonn94/tmedia-store/releases/download/t-media-store-v7.0.7/TMediaStore-v7.0.7.apk",
-  "releaseNotes": "Store improvements and reliability updates aswell as minor bug fixes",
-  "mandatory": true
+  "versionCode": 48,
+  "versionName": "7.0.8",
+  "apkUrl": "https://github.com/tomdixonn94/tmedia-store/releases/download/t-media-store-v7.0.8/TMediaStore-v7.0.8.apk",
+  "releaseNotes": "UI Fixes for chat",
+  "mandatory": false
 }
