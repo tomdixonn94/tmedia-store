@@ -1,7 +1,7 @@
 {
-  "versionCode": 50,
-  "versionName": "7.0.10",
-  "apkUrl": "https://github.com/tomdixonn94/tmedia-store/releases/download/t-media-store-v7.0.10/TMediaStore-v7.0.10.apk",
-  "releaseNotes": "UI FIXED AND READABILITY",
-  "mandatory": false
+  "versionCode": 51,
+  "versionName": "7.0.11",
+  "apkUrl": "https://github.com/tomdixonn94/tmedia-store/releases/download/t-media-store-v7.0.11/TMediaStore-v7.0.11.apk",
+  "releaseNotes": "Store improvements and reliability updates.",
+  "mandatory": true
 }
